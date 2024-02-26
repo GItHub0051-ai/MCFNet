@@ -10,7 +10,7 @@ Windows 11 OS, Nvidia GPU 2080ti.
 * Learning rate: 1e-5.
 * dropout: 0.1
 * Loss function: BCE Loss.
-## Conclusion
+# Conclusion
 This paper introduces the Multi-channel Cross-modal Fusion Network (MCFNet) for MSA, which facilitates the fusion process of inconsistent modalities and enhances the significance of language.
 However, the following problems remain:
 1)	Large data sets may be incomplete, adopting latent factor analysis can help us extract their inherent features and promote the full expression of multimodal data.
